@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/IMCV2">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1pyaXuHyAVGi763PEDUtw8Q6w6b">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6514223" />
+              <option name="buildTimestamp" value="1589987231065" />
+              <frame x="260" y="20" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1618572044236" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/IMCAPP">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1rFVu8YpLQrq7It2XGgbPdkYNIn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6514223" />
+              <option name="buildTimestamp" value="1589987241215" />
+              <frame x="260" y="20" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1619175087992" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/IMCAPP" />
+        <option value="$USER_HOME$/AndroidStudioProjects/IMCV2" />
+      </list>
+    </option>
+  </component>
+</application>
